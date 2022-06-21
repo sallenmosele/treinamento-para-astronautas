@@ -1,0 +1,42 @@
+body {
+    background-color: #000
+    
+       }
+
+    h1{color: white;
+              
+    }
+    li{
+        color: white; 
+                   
+    }
+
+    h2{
+        color:white;
+    }
+    h4{
+        color:white;
+    }
+    
+       body{
+        margin: 100;
+    
+    }
+    body{
+        
+        background-image: url('https://static3.depositphotos.com/1001442/176/i/600/depositphotos_1760021-stock-photo-flying-astronaut-on-a-black.jpg');
+        font-size: large 20px;
+        font-style: white;
+        font-size: medium 20px;
+        font-style:normal;
+        font-display: white;
+        font-family: monospace;
+                
+    }
+   
+    #container {
+        width: 100px; /*view width */
+        height: 100vh; /* view height */
+        background: size cover;
+     
+}
